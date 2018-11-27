@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Welcome to this strange little blog type thing I've created! It's very amateurish but I think it's pretty nifty.
+
+
+I might have to try more web development at a later date.
