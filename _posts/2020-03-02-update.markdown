@@ -5,4 +5,4 @@ date:   2020-03-02 19:00:00 +0000
 categories: jekyll update
 ---
 This is a site I made some time ago. I've changed a lot as a person now lmao so yeah this is cool to see.
-My current project is for my A Level Computer Science coursework in which I attempt to train and implement deep learning for usage in self service POS systems.
+My current project is for my [A Level Computer Science coursework](https://github.com/Viibrant/Automated-Checkout) in which I attempt to train and implement deep learning for usage in self service POS systems.
